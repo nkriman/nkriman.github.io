@@ -7,7 +7,7 @@ Hello there! I'm Nicolás Kriman, a passionate developer dedicated to creating s
 - **Diario Oficial Scraper**: An automated scraper tailored for Chile's official government publication, with features such as PDF parsing, data cleaning, and integration with Azure Database. Check out the repo here.
 - **Simple Flask API on GCP coderun**: A user-friendly and secure Flask API designed to fetch records from a vast dataset, hosted seamlessly on GCP coderun. Dive into the source code.
 
- ## 🛠 Tech Stack:
+## 🛠 Tech Stack:
 
   - **Languages**: Python, SQL
   - **Tools & Services I've used**: Azure PostgreSQL DB, GCP Secret Manager, AWS API Gateway, GCP Linux Virtual Machine, GitHub Actions
@@ -19,11 +19,11 @@ Hello there! I'm Nicolás Kriman, a passionate developer dedicated to creating s
 - NLP
 - Network analysis of chilean companies using Diario Oficial's data
 
- ## 🤝 Let's Collaborate:
+## 🤝 Let's Collaborate:
 
 Always excited about new opportunities, projects, and collaborations. If you have ideas or need help with your projects, feel free to contact me.
 
- ## 📬 Stay Connected:
+## 📬 Stay Connected:
 
  - [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-kriman-61173916/)
  - [Medium](https://medium.com/@kriman_65190) (Where I share my insights, journey, and project stories!)
